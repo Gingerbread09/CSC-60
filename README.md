@@ -32,11 +32,11 @@ Managing memory dynamically using malloc, free, and realloc.
 - Libraries and Relocation
 Using static and dynamic libraries and handling symbol tables during linking.
 
--Semester Deliverables
+- Semester Deliverables
 The course consisted of weekly lab deliverables.
 
--Testing and Documentation
+- Testing and Documentation
 Emphasis on unit testing and clear documentation to ensure the correctness and clarity of the code.
 
--Goals and Learning Outcomes
+- Goals and Learning Outcomes
 By the end of the course, I gained hands-on experience in C systems programming, including memory management, process control, and low-level I/O. This project strengthened my skills for real-world systems programming tasks.
